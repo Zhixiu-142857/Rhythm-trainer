@@ -1,0 +1,4 @@
+# Only rhythm.html is tracked in this repo; everything else stays local.
+*
+!.gitignore
+!rhythm.html
